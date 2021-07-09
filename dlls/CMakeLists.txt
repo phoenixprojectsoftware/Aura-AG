@@ -1,0 +1,37 @@
+add_subdirectory(wpn_shared)
+
+add_sources(
+    CDisplacer.cpp
+    CDisplacer.h
+    CEagle.h
+	CEagleLaser.h
+	CGrapple.cpp
+	CGrapple.h
+	CGrappleTip.cpp
+	CGrappleTip.h
+	CKnife.cpp
+	CKnife.h
+	CM249.h
+	CPipewrench.h
+    CPenguin.h
+	CShockRifle.cpp
+	CShockRifle.h
+	CSporeLauncher.cpp
+	CSporeLauncher.h
+	CSniperRifle.h
+	cdll_dll.h
+	crossbow.cpp
+	crowbar.cpp
+	egon.cpp
+	gauss.cpp
+	handgrenade.cpp
+	hornetgun.cpp
+	mp5.cpp
+	python.cpp
+	rpg.cpp
+	satchel.cpp
+	shotgun.cpp
+	skill.h
+	squeakgrenade.cpp
+	tripmine.cpp
+	UserMessages.h)

@@ -1,0 +1,14 @@
+add_sources(
+    CEagle.cpp
+	CEagle.h
+	CEagleLaser.cpp
+	CEagleLaser.h
+	CM249.cpp
+    CM249.h
+	CPipewrench.cpp
+	CPipewrench.h
+	CPenguin.cpp
+	CPenguin.h
+	CSniperRifle.cpp
+	CSniperRifle.h
+)
